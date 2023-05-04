@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\AbstractionAndInheritance\MilitaryElite\obj\Debug\net6.0\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AbstractionAndInheritance\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AbstractionAndInheritance\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfo.cs
+C:\Users\user\source\repos\AbstractionAndInheritance\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.CoreCompileInputs.cache

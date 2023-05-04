@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\bin\Debug\net5.0\02.BigFactorial.exe
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\bin\Debug\net5.0\02.BigFactorial.deps.json
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\bin\Debug\net5.0\02.BigFactorial.runtimeconfig.json
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\bin\Debug\net5.0\02.BigFactorial.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\bin\Debug\net5.0\02.BigFactorial.dll
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\bin\Debug\net5.0\ref\02.BigFactorial.dll
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\bin\Debug\net5.0\02.BigFactorial.pdb
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\obj\Debug\net5.0\02.BigFactorial.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\obj\Debug\net5.0\02.BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\obj\Debug\net5.0\02.BigFactorial.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\obj\Debug\net5.0\02.BigFactorial.AssemblyInfo.cs
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\obj\Debug\net5.0\02.BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\obj\Debug\net5.0\02.BigFactorial.dll
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\obj\Debug\net5.0\ref\02.BigFactorial.dll
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\obj\Debug\net5.0\02.BigFactorial.pdb
+C:\Users\user\source\repos\ObjectsAndClassesLab\02.BigFactorial\obj\Debug\net5.0\02.BigFactorial.genruntimeconfig.cache

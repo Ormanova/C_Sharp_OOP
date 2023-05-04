@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\InheritanceExercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.exe
+C:\Users\user\source\repos\InheritanceExercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.deps.json
+C:\Users\user\source\repos\InheritanceExercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.runtimeconfig.json
+C:\Users\user\source\repos\InheritanceExercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.dll
+C:\Users\user\source\repos\InheritanceExercise\PlayersAndMonsters\bin\Debug\net6.0\ref\PlayersAndMonsters.dll
+C:\Users\user\source\repos\InheritanceExercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.pdb
+C:\Users\user\source\repos\InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\user\source\repos\InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.dll
+C:\Users\user\source\repos\InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\ref\PlayersAndMonsters.dll
+C:\Users\user\source\repos\InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.pdb
+C:\Users\user\source\repos\InheritanceExercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "addc9e88-ba7d-41f3-8708-8b29ee5c5330": {
+      "ProjectGuid": "addc9e88-ba7d-41f3-8708-8b29ee5c5330",
+      "DisplayName": "ClassBoxData",
+      "ColorIndex": 0
+    },
+    "5058f2f8-eccf-43db-aa53-60161adffa22": {
+      "ProjectGuid": "5058f2f8-eccf-43db-aa53-60161adffa22",
+      "DisplayName": "AnimalFarm",
+      "ColorIndex": 1
+    },
+    "d9a0906c-7257-4267-ac18-809ed5023851": {
+      "ProjectGuid": "d9a0906c-7257-4267-ac18-809ed5023851",
+      "DisplayName": "ShoppingSpree",
+      "ColorIndex": 2
+    },
+    "83c9a4ec-4af5-47d2-b425-9f161031975d": {
+      "ProjectGuid": "83c9a4ec-4af5-47d2-b425-9f161031975d",
+      "DisplayName": "PizzaCalories",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fqU6+YEAVsim5DuL5U1a5BVdKrJaXmJhnIbXfG06irSwcYU4yNq+7cdNzzjMwtIQ3OZvp9lu7jXGt5JutCW6Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ObjectsAndClassesExercise\\01.AdvertisementMessage\\01.AdvertisementMessage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\PolimorphismExer\Vehicles\bin\Debug\net6.0\Vehicles.exe
+C:\Users\user\source\repos\PolimorphismExer\Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+C:\Users\user\source\repos\PolimorphismExer\Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+C:\Users\user\source\repos\PolimorphismExer\Vehicles\bin\Debug\net6.0\Vehicles.dll
+C:\Users\user\source\repos\PolimorphismExer\Vehicles\bin\Debug\net6.0\ref\Vehicles.dll
+C:\Users\user\source\repos\PolimorphismExer\Vehicles\bin\Debug\net6.0\Vehicles.pdb
+C:\Users\user\source\repos\PolimorphismExer\Vehicles\obj\Debug\net6.0\Vehicles.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PolimorphismExer\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PolimorphismExer\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PolimorphismExer\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+C:\Users\user\source\repos\PolimorphismExer\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PolimorphismExer\Vehicles\obj\Debug\net6.0\Vehicles.dll
+C:\Users\user\source\repos\PolimorphismExer\Vehicles\obj\Debug\net6.0\ref\Vehicles.dll
+C:\Users\user\source\repos\PolimorphismExer\Vehicles\obj\Debug\net6.0\Vehicles.pdb
+C:\Users\user\source\repos\PolimorphismExer\Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache

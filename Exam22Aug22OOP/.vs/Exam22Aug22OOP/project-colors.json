@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4e43bdc6-c444-4620-8f2c-04af6828dff9": {
+      "ProjectGuid": "4e43bdc6-c444-4620-8f2c-04af6828dff9",
+      "DisplayName": "BookingApplication",
+      "ColorIndex": 0
+    },
+    "f94878f9-3f93-4de5-8188-35e78830e425": {
+      "ProjectGuid": "f94878f9-3f93-4de5-8188-35e78830e425",
+      "DisplayName": "FrontDeskApp.Tests",
+      "ColorIndex": 1
+    },
+    "b9e9bcfa-5d76-49fa-ba20-69393fed359b": {
+      "ProjectGuid": "b9e9bcfa-5d76-49fa-ba20-69393fed359b",
+      "DisplayName": "FrontDeskApp",
+      "ColorIndex": 2
+    },
+    "4ebdc02f-e8dd-40fb-9d6e-aeb67b4580ec": {
+      "ProjectGuid": "4ebdc02f-e8dd-40fb-9d6e-aeb67b4580ec",
+      "DisplayName": "BookingApp",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

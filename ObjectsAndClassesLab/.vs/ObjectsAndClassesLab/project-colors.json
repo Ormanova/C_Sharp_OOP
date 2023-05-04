@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b4e4ecf-9598-4a1a-9de0-265a9eb1ba0e": {
+      "ProjectGuid": "1b4e4ecf-9598-4a1a-9de0-265a9eb1ba0e",
+      "DisplayName": "04.Students",
+      "ColorIndex": 0
+    },
+    "98875d13-78c0-43cb-82ad-e486e8be9f06": {
+      "ProjectGuid": "98875d13-78c0-43cb-82ad-e486e8be9f06",
+      "DisplayName": "03.Song",
+      "ColorIndex": 1
+    },
+    "65dacf7b-bbc4-414e-8a79-9042d0b409e4": {
+      "ProjectGuid": "65dacf7b-bbc4-414e-8a79-9042d0b409e4",
+      "DisplayName": "02.BigFactorial",
+      "ColorIndex": 2
+    },
+    "33a44546-8791-4dc8-a458-782d8c0bc8e8": {
+      "ProjectGuid": "33a44546-8791-4dc8-a458-782d8c0bc8e8",
+      "DisplayName": "01.RandomizWord",
+      "ColorIndex": 3
+    },
+    "a5c1f485-1876-4169-bbc4-73cb6f13deed": {
+      "ProjectGuid": "a5c1f485-1876-4169-bbc4-73cb6f13deed",
+      "DisplayName": "05.Student2.0",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

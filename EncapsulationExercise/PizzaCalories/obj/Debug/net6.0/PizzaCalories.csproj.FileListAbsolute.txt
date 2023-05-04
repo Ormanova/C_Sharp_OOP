@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\EncapsulationExercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.exe
+C:\Users\user\source\repos\EncapsulationExercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.deps.json
+C:\Users\user\source\repos\EncapsulationExercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.runtimeconfig.json
+C:\Users\user\source\repos\EncapsulationExercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.dll
+C:\Users\user\source\repos\EncapsulationExercise\PizzaCalories\bin\Debug\net6.0\ref\PizzaCalories.dll
+C:\Users\user\source\repos\EncapsulationExercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.pdb
+C:\Users\user\source\repos\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfo.cs
+C:\Users\user\source\repos\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.dll
+C:\Users\user\source\repos\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\ref\PizzaCalories.dll
+C:\Users\user\source\repos\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.pdb
+C:\Users\user\source\repos\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.genruntimeconfig.cache

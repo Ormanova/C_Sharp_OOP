@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\InheritanceExercise\Zoo\bin\Debug\net6.0\Zoo.exe
+C:\Users\user\source\repos\InheritanceExercise\Zoo\bin\Debug\net6.0\Zoo.deps.json
+C:\Users\user\source\repos\InheritanceExercise\Zoo\bin\Debug\net6.0\Zoo.runtimeconfig.json
+C:\Users\user\source\repos\InheritanceExercise\Zoo\bin\Debug\net6.0\Zoo.dll
+C:\Users\user\source\repos\InheritanceExercise\Zoo\bin\Debug\net6.0\ref\Zoo.dll
+C:\Users\user\source\repos\InheritanceExercise\Zoo\bin\Debug\net6.0\Zoo.pdb
+C:\Users\user\source\repos\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+C:\Users\user\source\repos\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.dll
+C:\Users\user\source\repos\InheritanceExercise\Zoo\obj\Debug\net6.0\ref\Zoo.dll
+C:\Users\user\source\repos\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.pdb
+C:\Users\user\source\repos\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.genruntimeconfig.cache

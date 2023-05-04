@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f2cd23a6-39aa-41bf-9c49-146b7dc7a96f": {
+      "ProjectGuid": "f2cd23a6-39aa-41bf-9c49-146b7dc7a96f",
+      "DisplayName": "Person",
+      "ColorIndex": 0
+    },
+    "acd80d59-7124-44a4-910c-1a1a48a01854": {
+      "ProjectGuid": "acd80d59-7124-44a4-910c-1a1a48a01854",
+      "DisplayName": "Zoo",
+      "ColorIndex": 1
+    },
+    "9c91984c-8b39-4096-b989-fb144b70c596": {
+      "ProjectGuid": "9c91984c-8b39-4096-b989-fb144b70c596",
+      "DisplayName": "PlayersAndMonsters",
+      "ColorIndex": 2
+    },
+    "9ca5f0cb-db7e-468b-b29a-8af6371749d5": {
+      "ProjectGuid": "9ca5f0cb-db7e-468b-b29a-8af6371749d5",
+      "DisplayName": "NeedForSpeed",
+      "ColorIndex": 3
+    },
+    "310cfaf7-e22a-4bd4-857b-882926ec7f5c": {
+      "ProjectGuid": "310cfaf7-e22a-4bd4-857b-882926ec7f5c",
+      "DisplayName": "Restaurant",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

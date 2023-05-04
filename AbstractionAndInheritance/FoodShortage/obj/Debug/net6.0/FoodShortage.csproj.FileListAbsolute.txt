@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AbstractionAndInheritance\FoodShortage\bin\Debug\net6.0\FoodShortage.exe
+C:\Users\user\source\repos\AbstractionAndInheritance\FoodShortage\bin\Debug\net6.0\FoodShortage.deps.json
+C:\Users\user\source\repos\AbstractionAndInheritance\FoodShortage\bin\Debug\net6.0\FoodShortage.runtimeconfig.json
+C:\Users\user\source\repos\AbstractionAndInheritance\FoodShortage\bin\Debug\net6.0\FoodShortage.dll
+C:\Users\user\source\repos\AbstractionAndInheritance\FoodShortage\bin\Debug\net6.0\ref\FoodShortage.dll
+C:\Users\user\source\repos\AbstractionAndInheritance\FoodShortage\bin\Debug\net6.0\FoodShortage.pdb
+C:\Users\user\source\repos\AbstractionAndInheritance\FoodShortage\obj\Debug\net6.0\FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AbstractionAndInheritance\FoodShortage\obj\Debug\net6.0\FoodShortage.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AbstractionAndInheritance\FoodShortage\obj\Debug\net6.0\FoodShortage.AssemblyInfo.cs
+C:\Users\user\source\repos\AbstractionAndInheritance\FoodShortage\obj\Debug\net6.0\FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AbstractionAndInheritance\FoodShortage\obj\Debug\net6.0\FoodShortage.dll
+C:\Users\user\source\repos\AbstractionAndInheritance\FoodShortage\obj\Debug\net6.0\ref\FoodShortage.dll
+C:\Users\user\source\repos\AbstractionAndInheritance\FoodShortage\obj\Debug\net6.0\FoodShortage.pdb
+C:\Users\user\source\repos\AbstractionAndInheritance\FoodShortage\obj\Debug\net6.0\FoodShortage.genruntimeconfig.cache

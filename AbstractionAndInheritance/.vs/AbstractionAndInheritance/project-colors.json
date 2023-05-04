@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73e0852f-468d-4287-a2d3-da9868b8b4f7": {
+      "ProjectGuid": "73e0852f-468d-4287-a2d3-da9868b8b4f7",
+      "DisplayName": "PersonInfo",
+      "ColorIndex": 0
+    },
+    "cddadec8-972f-4f4f-84c9-818eec9287f1": {
+      "ProjectGuid": "cddadec8-972f-4f4f-84c9-818eec9287f1",
+      "DisplayName": "Telephony",
+      "ColorIndex": 1
+    },
+    "57d716ca-cf4d-4969-993f-509645dadd21": {
+      "ProjectGuid": "57d716ca-cf4d-4969-993f-509645dadd21",
+      "DisplayName": "BorderControl",
+      "ColorIndex": 2
+    },
+    "7b43460f-8636-4303-9ae6-6dd3f609dbae": {
+      "ProjectGuid": "7b43460f-8636-4303-9ae6-6dd3f609dbae",
+      "DisplayName": "BirthdayCelebrations",
+      "ColorIndex": 3
+    },
+    "98cddf8e-e562-4a79-b70c-deff2caaac4f": {
+      "ProjectGuid": "98cddf8e-e562-4a79-b70c-deff2caaac4f",
+      "DisplayName": "FoodShortage",
+      "ColorIndex": 4
+    },
+    "b2632f63-3532-4128-b0f2-8d9ead6bf60f": {
+      "ProjectGuid": "b2632f63-3532-4128-b0f2-8d9ead6bf60f",
+      "DisplayName": "CollectionHierarchy",
+      "ColorIndex": 5
+    },
+    "bcc18993-816e-473e-a33a-70390868adcc": {
+      "ProjectGuid": "bcc18993-816e-473e-a33a-70390868adcc",
+      "DisplayName": "ExplicitInterfaces",
+      "ColorIndex": 6
+    },
+    "47ed58cd-75d5-43fa-904e-f8627acd8749": {
+      "ProjectGuid": "47ed58cd-75d5-43fa-904e-f8627acd8749",
+      "DisplayName": "MilitaryElite",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

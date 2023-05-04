@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "79b209ef-8006-474e-a385-7b89e9ef7b24": {
+      "ProjectGuid": "79b209ef-8006-474e-a385-7b89e9ef7b24",
+      "DisplayName": "NavalVessels",
+      "ColorIndex": 0
+    },
+    "f778cba8-53a8-44cd-981b-798d40105c3b": {
+      "ProjectGuid": "f778cba8-53a8-44cd-981b-798d40105c3b",
+      "DisplayName": "Book",
+      "ColorIndex": 1
+    },
+    "af4370b4-94a6-49b4-920c-0b9ec9968e63": {
+      "ProjectGuid": "af4370b4-94a6-49b4-920c-0b9ec9968e63",
+      "DisplayName": "Book.Test",
+      "ColorIndex": 2
+    },
+    "02a994b9-d639-441e-85f5-3a1fb0af1511": {
+      "ProjectGuid": "02a994b9-d639-441e-85f5-3a1fb0af1511",
+      "DisplayName": "Book.Test",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

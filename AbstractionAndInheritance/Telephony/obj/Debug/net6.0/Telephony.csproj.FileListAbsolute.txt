@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AbstractionAndInheritance\Telephony\bin\Debug\net6.0\Telephony.exe
+C:\Users\user\source\repos\AbstractionAndInheritance\Telephony\bin\Debug\net6.0\Telephony.deps.json
+C:\Users\user\source\repos\AbstractionAndInheritance\Telephony\bin\Debug\net6.0\Telephony.runtimeconfig.json
+C:\Users\user\source\repos\AbstractionAndInheritance\Telephony\bin\Debug\net6.0\Telephony.dll
+C:\Users\user\source\repos\AbstractionAndInheritance\Telephony\bin\Debug\net6.0\ref\Telephony.dll
+C:\Users\user\source\repos\AbstractionAndInheritance\Telephony\bin\Debug\net6.0\Telephony.pdb
+C:\Users\user\source\repos\AbstractionAndInheritance\Telephony\obj\Debug\net6.0\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AbstractionAndInheritance\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AbstractionAndInheritance\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfo.cs
+C:\Users\user\source\repos\AbstractionAndInheritance\Telephony\obj\Debug\net6.0\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AbstractionAndInheritance\Telephony\obj\Debug\net6.0\Telephony.dll
+C:\Users\user\source\repos\AbstractionAndInheritance\Telephony\obj\Debug\net6.0\ref\Telephony.dll
+C:\Users\user\source\repos\AbstractionAndInheritance\Telephony\obj\Debug\net6.0\Telephony.pdb
+C:\Users\user\source\repos\AbstractionAndInheritance\Telephony\obj\Debug\net6.0\Telephony.genruntimeconfig.cache

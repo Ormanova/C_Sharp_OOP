@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Csp6oabufiSsYMPZut5Yi4jTN3UgFF2v5D7mArCAqBhHAWFgaJxQh1hbTuqtbzZ1hHYdTKF1XRoy+qzr0/M16A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ObjectsAndClassesExercise\\05.TeamworkProjects\\05.TeamworkProjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c72b7c31-e452-46ad-91d1-e12d0b1f7fe1": {
+      "ProjectGuid": "c72b7c31-e452-46ad-91d1-e12d0b1f7fe1",
+      "DisplayName": "Bakery",
+      "ColorIndex": 0
+    },
+    "b6f6202a-37cb-4f3c-855f-a81ac61afb5d": {
+      "ProjectGuid": "b6f6202a-37cb-4f3c-855f-a81ac61afb5d",
+      "DisplayName": "BankSafe.Tests",
+      "ColorIndex": 1
+    },
+    "d09ba2f2-7558-4564-995e-0f4daa0a30a8": {
+      "ProjectGuid": "d09ba2f2-7558-4564-995e-0f4daa0a30a8",
+      "DisplayName": "BankSafe",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

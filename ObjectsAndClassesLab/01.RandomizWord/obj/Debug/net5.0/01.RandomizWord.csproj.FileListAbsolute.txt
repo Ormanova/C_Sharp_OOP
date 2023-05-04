@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\bin\Debug\net5.0\01.RandomizWord.exe
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\bin\Debug\net5.0\01.RandomizWord.deps.json
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\bin\Debug\net5.0\01.RandomizWord.runtimeconfig.json
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\bin\Debug\net5.0\01.RandomizWord.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\bin\Debug\net5.0\01.RandomizWord.dll
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\bin\Debug\net5.0\ref\01.RandomizWord.dll
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\bin\Debug\net5.0\01.RandomizWord.pdb
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\obj\Debug\net5.0\01.RandomizWord.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\obj\Debug\net5.0\01.RandomizWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\obj\Debug\net5.0\01.RandomizWord.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\obj\Debug\net5.0\01.RandomizWord.AssemblyInfo.cs
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\obj\Debug\net5.0\01.RandomizWord.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\obj\Debug\net5.0\01.RandomizWord.dll
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\obj\Debug\net5.0\ref\01.RandomizWord.dll
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\obj\Debug\net5.0\01.RandomizWord.pdb
+C:\Users\user\source\repos\ObjectsAndClassesLab\01.RandomizWord\obj\Debug\net5.0\01.RandomizWord.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UldPaiFcjaDk5xltN+EjR5ajkE/2XXpxKPVkchnDOR8XUp/gg9Bs4GTeH2vqkOvq9DHNmHvMNMTulB84QWdoBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ObjectsAndClassesExercise\\06.VehicleCatalog\\06.VehicleCatalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

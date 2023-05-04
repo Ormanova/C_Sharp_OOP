@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\InheritanceExercise\Person\bin\Debug\net6.0\Person.exe
+C:\Users\user\source\repos\InheritanceExercise\Person\bin\Debug\net6.0\Person.deps.json
+C:\Users\user\source\repos\InheritanceExercise\Person\bin\Debug\net6.0\Person.runtimeconfig.json
+C:\Users\user\source\repos\InheritanceExercise\Person\bin\Debug\net6.0\Person.dll
+C:\Users\user\source\repos\InheritanceExercise\Person\bin\Debug\net6.0\ref\Person.dll
+C:\Users\user\source\repos\InheritanceExercise\Person\bin\Debug\net6.0\Person.pdb
+C:\Users\user\source\repos\InheritanceExercise\Person\obj\Debug\net6.0\Person.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\InheritanceExercise\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\InheritanceExercise\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InheritanceExercise\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+C:\Users\user\source\repos\InheritanceExercise\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InheritanceExercise\Person\obj\Debug\net6.0\Person.dll
+C:\Users\user\source\repos\InheritanceExercise\Person\obj\Debug\net6.0\ref\Person.dll
+C:\Users\user\source\repos\InheritanceExercise\Person\obj\Debug\net6.0\Person.pdb
+C:\Users\user\source\repos\InheritanceExercise\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache

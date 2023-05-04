@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6f7aab70-931b-4505-bc01-3aad580fe305": {
+      "ProjectGuid": "6f7aab70-931b-4505-bc01-3aad580fe305",
+      "DisplayName": "StreamProgress",
+      "ColorIndex": 0
+    },
+    "bb8a6951-630f-45c8-ba88-ba417f1284a0": {
+      "ProjectGuid": "bb8a6951-630f-45c8-ba88-ba417f1284a0",
+      "DisplayName": "GraphicEditor",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

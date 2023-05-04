@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AbstractionAndInheritance\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.exe
+C:\Users\user\source\repos\AbstractionAndInheritance\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.deps.json
+C:\Users\user\source\repos\AbstractionAndInheritance\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.runtimeconfig.json
+C:\Users\user\source\repos\AbstractionAndInheritance\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.dll
+C:\Users\user\source\repos\AbstractionAndInheritance\CollectionHierarchy\bin\Debug\net6.0\ref\CollectionHierarchy.dll
+C:\Users\user\source\repos\AbstractionAndInheritance\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.pdb
+C:\Users\user\source\repos\AbstractionAndInheritance\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AbstractionAndInheritance\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AbstractionAndInheritance\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.AssemblyInfo.cs
+C:\Users\user\source\repos\AbstractionAndInheritance\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AbstractionAndInheritance\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.dll
+C:\Users\user\source\repos\AbstractionAndInheritance\CollectionHierarchy\obj\Debug\net6.0\ref\CollectionHierarchy.dll
+C:\Users\user\source\repos\AbstractionAndInheritance\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.pdb
+C:\Users\user\source\repos\AbstractionAndInheritance\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.genruntimeconfig.cache

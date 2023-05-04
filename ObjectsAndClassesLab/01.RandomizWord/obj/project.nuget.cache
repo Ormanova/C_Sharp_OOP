@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WNuZwHxiHKDa4kc0gz/bxWAWumwJ2Rms0m4JnEzaRsPR8mn/ZhnQhNorOgeBInW59t78wFSm9zRRK4mjG9qhuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ObjectsAndClassesLab\\01.RandomizWord\\01.RandomizWord.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

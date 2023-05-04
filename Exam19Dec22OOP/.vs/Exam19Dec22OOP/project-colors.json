@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd414326-5280-47c9-950a-700514318f89": {
+      "ProjectGuid": "fd414326-5280-47c9-950a-700514318f89",
+      "DisplayName": "UniversityCompetition",
+      "ColorIndex": 0
+    },
+    "8ada35be-6895-4687-b8e8-3e0d0d70a3f2": {
+      "ProjectGuid": "8ada35be-6895-4687-b8e8-3e0d0d70a3f2",
+      "DisplayName": "UniversityLibrary.Test",
+      "ColorIndex": 1
+    },
+    "a055dc51-bc14-42c1-bd3f-3ef7967a8f1c": {
+      "ProjectGuid": "a055dc51-bc14-42c1-bd3f-3ef7967a8f1c",
+      "DisplayName": "UniversityLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
